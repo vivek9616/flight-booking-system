@@ -1,0 +1,16 @@
+.contact{
+    width:100%;
+    display: flex;
+    flex-direction: column; justify-content: top;
+    align-items: center;
+    min-height: 400px; background-color: rgb(109, 226, 255);
+}
+.contactsection{ width: 60%; 
+    min-height:300px; 
+    border: 1px solid grey;
+    margin-top:15px;
+    padding:10px;
+}
+h2{ 
+    margin-left:15px;
+}

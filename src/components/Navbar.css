@@ -1,0 +1,34 @@
+.nav{
+    display: flex;
+    font-size:5vh;
+    color: white;
+    background-color: rgb(165, 161, 161);
+    padding: 1px;
+align-items: center;}
+    
+.opt{
+    border: solid black 1px;
+    margin:0.5rem;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    width:200px;
+    height: fit-content;
+    background-color:black;
+    border-radius: 1rem;
+    color:white;
+    
+}
+.opt :hover{
+    color: burlywood;
+}
+.link{
+    color:#fff;
+    text-decoration: none;
+}
+#logo{
+    border-radius: 50%;
+    width:150px ;
+    height:fit-content;
+    padding: 0.1rem; 
+    margin: 0.5 rem;}

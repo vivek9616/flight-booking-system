@@ -1,0 +1,24 @@
+.cancelticket{
+    min-height: 400px;
+    background-color: rgb(109, 226, 255);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#heading{
+    color: rgb(245, 20, 177);
+    font-size: xx-large; border: 1px black dotted;
+    align-items: center; justify-items: center;
+    display: flex;
+}
+.cancelbox{
+    border: 1px solid black; height: fit-content;
+    width: fit-content;
+    align-items: center;
+    justify-items: center; justify-content: center; align-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-top: 50px;
+}
